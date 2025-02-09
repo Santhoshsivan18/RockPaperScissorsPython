@@ -32,9 +32,9 @@ A simple Rock-Paper-Scissors game implemented in Python.
 
 ## Example Output
 ```
-Enter your choice (rock, paper, scissors): rock
-Computer chose scissors
-You win!
+Enter your choice (rock, paper, scissors): <Click the picture to choose rock/paper/scissor>
+Scores will be updated each time the game is played.
+The choices of both player & computer will be displayed.
 ```
 
 ## License
